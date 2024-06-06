@@ -9,4 +9,3 @@ openai
 pyppeteer
 matplotlib
 pandas
-sqlalchemy_schemadisplay

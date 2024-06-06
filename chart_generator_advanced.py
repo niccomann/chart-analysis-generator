@@ -21,10 +21,6 @@ from langgraph.graph import END, StateGraph
 from langgraph.prebuilt.tool_executor import ToolExecutor, ToolInvocation
 from typing_extensions import TypedDict
 
-from langsmith import Client
-
-client = Client()
-
 
 class DatabaseConfig:
     def __init__(self, db_path):

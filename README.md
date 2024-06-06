@@ -1,2 +1,8 @@
-To run the project fill the .env file with the key:
-OPENAI_API_KEY=
+# Project Setup
+
+To run the project, follow these steps:
+
+1. Fill the `.env` file with the required key:
+
+   ```plaintext
+   OPENAI_API_KEY=
